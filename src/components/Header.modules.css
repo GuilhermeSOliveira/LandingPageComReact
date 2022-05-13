@@ -1,0 +1,19 @@
+.HeaderContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.headerNav {
+    display: flex;
+    list-style: none;
+}
+
+.navMenu {
+    margin: 1rem;
+}
+
+.navMenu:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

@@ -1,0 +1,34 @@
+.servicos {
+    padding: 2rem 0;
+}
+
+.imagemServicos {
+    height: 200px;
+    margin: 2rem auto;
+    width: 400px;
+}
+
+.tituloServicos {
+    background-color: #003360;
+    border-radius: 2rem;
+    box-shadow: 0.25rem 0.25rem #1379ca;
+    color: #FFF;
+    margin: 0 auto;
+    padding: 0.25rem 0;
+    width: 20rem;
+}
+
+.listaServicos {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.itemServicos {
+    color: #0674c2;
+    flex-basis: 50%;
+    font-size: 1rem;
+    font-weight: bolder;
+    margin: 1rem 0;
+    text-align: left;
+}

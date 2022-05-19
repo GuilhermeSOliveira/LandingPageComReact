@@ -4,9 +4,16 @@
     padding: 1rem;
 }
 
+img {
+    height: 100px;
+    width: 200px;
+}
+
 .headerNav {
     display: flex;
     list-style: none;
+    color: #0a76ce;
+    font-weight: bold;
 }
 
 .navMenu {

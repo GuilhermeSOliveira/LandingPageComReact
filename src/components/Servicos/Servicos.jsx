@@ -1,11 +1,12 @@
 import './Servicos.modules.css'
 import servicos from '../../images/servicos.png'
+import TituloPadrao from '../TituloPadrao'
 
 function Servicos () {
     return (
         <div className='servicos'>
             <img src={servicos} alt="" className='imagemServicos'/>
-            <h1 className='tituloServicos'>Nossos Serviços</h1>
+            <TituloPadrao titulo="Nossos Serviços"/>
             <ul className='listaServicos'>
                 <li className='itemServicos'>&#129520; Elétrica residencial, predial e comercial</li>
                 <li className='itemServicos'>&#129520; Leitura de projetos</li>

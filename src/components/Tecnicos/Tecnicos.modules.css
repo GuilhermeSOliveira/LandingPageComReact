@@ -1,0 +1,20 @@
+.tecnicos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tituloTecnicos {
+    color: #0674c2;
+    font-weight: bold;
+}
+
+.fotoTecnicos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagemTecnicos {
+    height: 400px;
+    width: 300px;
+    padding: 2rem 0;
+}

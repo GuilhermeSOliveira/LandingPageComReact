@@ -8,16 +8,6 @@
     width: 400px;
 }
 
-.tituloServicos {
-    background-color: #003360;
-    border-radius: 2rem;
-    box-shadow: 0.25rem 0.25rem #1379ca;
-    color: #FFF;
-    margin: 0 auto;
-    padding: 0.25rem 0;
-    width: 20rem;
-}
-
 .listaServicos {
     display: flex;
     flex-wrap: wrap;

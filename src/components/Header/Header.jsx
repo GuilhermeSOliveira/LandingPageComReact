@@ -8,8 +8,8 @@ function Header () {
             <ul className="headerNav">
                 <li className='navMenu'>Serviços</li>
                 <li className='navMenu'>Técnicos Responsáveis</li>
-                <li className='navMenu'>Contato</li>
                 <li className='navMenu'>Orçamento</li>
+                <li className='navMenu'>Contato</li>
             </ul>
         </div>
     )

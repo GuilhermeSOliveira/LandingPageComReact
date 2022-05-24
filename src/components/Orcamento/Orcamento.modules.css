@@ -1,0 +1,50 @@
+.orcamento {
+    margin: 0 auto;
+}
+
+.formOrcamento {
+}
+
+.formItem, .formSelect, .formInput {
+    display: block;
+    text-align: left;
+    margin: 0 2rem;
+    padding: 0.25rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.formItem, .formSelect {
+    color: #FFF;
+}
+
+.formInput {
+    color: #003360;
+}
+
+.formItem::placeholder {
+    color:#003360
+}
+
+.formSelect {
+    background-color: #003360;
+    border-style: none;
+}
+
+.botaoOrcamento {
+    padding: 1rem;
+    border-radius: 1rem;
+    border-style: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #003360;
+    box-shadow: 0.25rem 0.25rem #1379ca;
+    margin: 1rem;
+}
+
+.botaoOrcamento:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 500ms;
+}

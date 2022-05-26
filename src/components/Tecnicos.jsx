@@ -1,7 +1,7 @@
-import TituloPadrao from "../TituloPadrao"
-import './Tecnicos.modules.css'
-import Moises from '../../images/Moises.png'
-import Mateus from '../../images/Mateus.png'
+import TituloPadrao from "./TituloPadrao"
+import './modules/Tecnicos.modules.css'
+import Moises from '../images/Moises.png'
+import Mateus from '../images/Mateus.png'
 
 function Tecnicos() {
     return (

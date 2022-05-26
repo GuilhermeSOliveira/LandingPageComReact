@@ -1,4 +1,4 @@
-import './TituloPadrao.modules.css'
+import './modules/TituloPadrao.modules.css'
 
 function TituloPadrao(props) {
     return(

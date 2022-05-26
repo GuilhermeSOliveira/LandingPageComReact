@@ -1,6 +1,6 @@
-import './Servicos.modules.css'
-import servicos from '../../images/servicos.png'
-import TituloPadrao from '../TituloPadrao'
+import './modules/Servicos.modules.css'
+import servicos from '../images/servicos.png'
+import TituloPadrao from './TituloPadrao'
 
 function Servicos () {
     return (

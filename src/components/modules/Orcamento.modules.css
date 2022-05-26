@@ -2,9 +2,6 @@
     margin: 0 auto;
 }
 
-.formOrcamento {
-}
-
 .formItem, .formSelect, .formInput {
     display: block;
     text-align: left;

@@ -1,5 +1,5 @@
-import './Orcamento.modules.css'
-import TituloPadrao from "../TituloPadrao"
+import './modules/Orcamento.modules.css'
+import TituloPadrao from "./TituloPadrao"
 
 function Orcamento () {
     return (

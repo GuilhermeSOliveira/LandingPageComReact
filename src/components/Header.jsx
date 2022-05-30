@@ -4,7 +4,7 @@ import logo from '../images/logo.png'
 function Header () {
     return (
         <div className="HeaderContainer">
-            <img src={logo} alt="Logo" />
+            <img src={logo} alt="Logo" className='logo'/>
             <ul className="headerNav">
                 <li className='navMenu'>Serviços</li>
                 <li className='navMenu'>Técnicos Responsáveis</li>

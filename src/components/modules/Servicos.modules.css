@@ -3,22 +3,22 @@
 }
 
 .imagemServicos {
-    height: 200px;
+    height: 300px;
     margin: 2rem auto;
-    width: 400px;
+    width: 500px;
 }
 
 .listaServicos {
-    display: flex;
+    display: inline-grid;
     flex-wrap: wrap;
     list-style: none;
 }
 
 .itemServicos {
     color: #0674c2;
-    flex-basis: 50%;
     font-size: 1rem;
     font-weight: bolder;
     margin: 1rem 0;
     text-align: left;
+    margin: 2rem auto;
 }

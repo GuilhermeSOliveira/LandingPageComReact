@@ -2,11 +2,12 @@
     display: flex;
     justify-content: space-between;
     padding: 1rem;
+    align-items: center;
 }
 
 img {
-    height: 100px;
-    width: 200px;
+    height: 200px;
+    width: 400px;
 }
 
 .headerNav {

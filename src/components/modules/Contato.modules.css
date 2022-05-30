@@ -5,6 +5,8 @@
     gap: 1rem;
     margin: 2rem auto 0;
     font-size: 15px;
+    justify-content: space-around;
+    padding: 1.5rem;
 }
 
 .instagram, .email, .endereco, .whatsapp {
